@@ -21,8 +21,8 @@ ul {
 }
 
 body > header {
-    background-color: orange;
-    color: white;
+    background-color: pink;
+    color: blueviolet;
     display: flex;
     height: 12vh;
     align-items: center;
