@@ -52,6 +52,11 @@ body > header > nav > ul {
     border: 2px solid blueviolet;
 }
 
+aside {
+    color: blueviolet;
+    background-color: aqua;
+}
+
 body > main article {
     width: 70%;
     margin: auto;
