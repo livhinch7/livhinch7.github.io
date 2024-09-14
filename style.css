@@ -38,6 +38,7 @@ body > header {
     padding: 8px;
     margin: 16px;
     color: blueviolet;
+    background-color: aqua;
 }
 
 body > header > nav > ul {
