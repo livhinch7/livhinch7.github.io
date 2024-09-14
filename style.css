@@ -78,6 +78,7 @@ h2 {
 
 body > footer {
     background-color: pink;
+    color: blueviolet;
     display: flex;
 }
 
